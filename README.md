@@ -1,2 +1,2 @@
 # WuWa-Config
-# Gabut AJAH
+Gabut AJAH
